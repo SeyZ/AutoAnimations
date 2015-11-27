@@ -29,7 +29,7 @@
     }
     
     // load Velocity.js if needed
-    var velocityURL = "//cdn.rawgit.com/julianshapiro/velocity/1.2.3/velocity.min.js";
+    var velocityURL = "https://cdn.rawgit.com/julianshapiro/velocity/1.2.3/velocity.min.js";
     
     if (window.Velocity) {
         AutoAnimations();
